@@ -1,0 +1,157 @@
+{
+    "exams": [
+        {
+            "id": 1,
+            "title": "title of exam 1",
+            "start_time": "2020-07-24T09:30:00",
+            "end_time": "2020-07-25T12:00:00",
+            "Badge": [
+                "ct1",
+                "ct2"
+            ],
+            "description": "lorem exam1 ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
+            "teacher": {
+                "id": 1,
+                "name": "Iftekhar Mahmud Towhid"
+            },
+            "Questions": [
+                {
+                    "id": 1,
+                    "title": "Question 1 title exam 1",
+                    "options": [
+                        "option1",
+                        "option2",
+                        "option3",
+                        "option4"
+                    ],
+                    "correct": "option3"
+                },
+                {
+                    "id": 2,
+                    "title": "Question 2 title exam 1",
+                    "options": [
+                        "option5",
+                        "option6",
+                        "option7",
+                        "option8"
+                    ],
+                    "correct": "option5"
+                },
+                {
+                    "id": 3,
+                    "title": "Question 3 title exam 1",
+                    "options": [
+                        "option9",
+                        "option10",
+                        "option11",
+                        "option12"
+                    ],
+                    "correct": "option12"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "title of exam 1",
+            "start_time": "2020-07-24T09:30:00",
+            "end_time": "2020-07-24T12:00:00",
+            "Badge": [
+                "ct3",
+                "ct4"
+            ],
+            "description": "lorem exam 2 ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
+            "teacher": {
+                "id": 2,
+                "name": "Asadunnabi Nur"
+            },
+            "Questions": [
+                {
+                    "id": 1,
+                    "title": "Question 1 title exam 2",
+                    "options": [
+                        "option1",
+                        "option2",
+                        "option2",
+                        "option2"
+                    ],
+                    "correct": "option1"
+                },
+                {
+                    "id": 2,
+                    "title": "Question 2 title exam 2",
+                    "options": [
+                        "option1",
+                        "option2",
+                        "option2",
+                        "option2"
+                    ],
+                    "correct": "option1"
+                },
+                {
+                    "id": 3,
+                    "title": "Question 3 title exam 2",
+                    "options": [
+                        "option1",
+                        "option2",
+                        "option2",
+                        "option2"
+                    ],
+                    "correct": "option1"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "title": "title of exam 1",
+            "start_time": "2020-07-24T09:30:00",
+            "end_time": "2020-07-24T12:00:00",
+            "Badge": [
+                "ct5",
+                "ct6"
+            ],
+            "description": "lorem exam 3 ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
+            "teacher": {
+                "id": 3,
+                "name": "Bellal Hossain"
+            },
+            "Questions": [
+                {
+                    "id": 1,
+                    "title": "Question 1 title exam 3",
+                    "options": [
+                        "option1",
+                        "option2",
+                        "option2",
+                        "option2"
+                    ],
+                    "correct": "option1"
+                },
+                {
+                    "id": 2,
+                    "title": "Question 2 title exam 3",
+                    "options": [
+                        "option1",
+                        "option2",
+                        "option2",
+                        "option2"
+                    ],
+                    "correct": "option1"
+                },
+                {
+                    "id": 3,
+                    "title": "Question 3 title exam 3",
+                    "options": [
+                        "option1",
+                        "option2",
+                        "option2",
+                        "option2"
+                    ],
+                    "correct": "option1"
+                }
+            ]
+        }
+    ],
+    "pusupusu": {
+        "pusupusu": 1
+    }
+}

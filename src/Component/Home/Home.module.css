@@ -1,0 +1,28 @@
+.homeSection{
+    background-image: url('./back.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    min-height: 100vh;
+    color: #fff;
+    font-family: 'Red Rose', cursive;
+}
+
+.container{
+    width: 75%;
+    height: 100vh;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.container h1{
+    display: inline;
+}
+
+.image{
+    height: 60px;
+    width: 60px;
+    border-radius: 2rem;
+}
